@@ -85,51 +85,51 @@ WordPress
 Portfolio
 
 All
-Web design
-Applications
-Web development
+Print
+Multimedia
+Other
 
 Select category
 All
-Web design
-Applications
-Web development
+Print
+Multimedia
+Other
 
 alt = finance
 Finance
-Web development
+Print
 
 alt = orizon
 Orizon
-Web development
+Multimedia
 
 alt = fundo
 Fundo
-Web design
+Other
 
 alt = brawlhalla
 Brawlhalla
-Applications
+Print
 
 alt = dsm.
 DSM.
-Web design
+Print
 
 alt = metaspark
 MetaSpark
-Web design
+Print
 
 alt = summary
 Summary
-Web development
+Print
 
 alt = task manager
 Task Manager
-Applications
+Print
 
 alt = arrival
 Arrival
-Web development
+Print
 
 
 
