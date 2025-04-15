@@ -95,8 +95,8 @@ Print
 Multimedia
 Other
 
-alt = finance
-Finance
+alt = ‘A worthy profession’: BU’s Power of Narrative Conference inspires hope for journalism during dark time
+‘A worthy profession’: BU’s Power of Narrative Conference inspires hope for journalism during dark time
 Print
 
 alt = orizon
