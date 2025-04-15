@@ -2,23 +2,21 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Ellen Dong
+Ellen Dong
+Journalist | Data Scientist
 
 Show Contacts
 
 Email
-richard@example.com
+ezdong220@gmail.com
 
 Phone
-+1 (213) 352-2795
-
-Birthday
-June 23, 1982
++1 (503) 437-8888
 
 Location
-Sacramento, California, USA
+Boston, MA, USA
+Portland, OR, USA
 
 # navbar
 
